@@ -188,7 +188,7 @@ scheme of this category is BBS+ and its variant BBS#.
 #### 3.1.1 BBS+/BBS#
 
 BBS+ is a digital signature protocol which is used for signing a set of
-messages.  It was first envisioned by Boneh, Boyen, Shacham in [BBS2024] (from
+messages.  It was first envisioned by Boneh, Boyen, Shacham in [BBS2004] (from
 where it takes its name), touched and re-visited by [Cam2016]. Currently under
 standardisation by the IRTF Crypto Forum Research Group [Loo2025], BBS+ provides the ability to
 sign a set of individual messages, with only a single constant size signature.
@@ -545,7 +545,7 @@ authentication with Level of Assurance  "high".
 | --- | --- |
 | [Api2025] | Rutchathon Chairattana-Apirom, Franklin Harding, Anna Lysyanskaya, and Stefano Tessaro, "Server-Aided Anonymous Credentials," available at <https://eprint.iacr.org/2025/513>, 2025
 | [ARF_DevPlan] | Architecture and Reference Framework Development plan 2025, European Commission, v0.91, final draft |
-| [BBS2024] | Boneh, Dan, Xavier Boyen, and Hovav Shacham. "Short group signatures." In Annual international cryptology conference, pp. 41-55. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004. |
+| [BBS2004] | Boneh, Dan, Xavier Boyen, and Hovav Shacham. "Short group signatures." In Annual international cryptology conference, pp. 41-55. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004. |
 | [Cam2016] | Camenisch, Jan, Manu Drijvers, and Anja Lehmann. "Anonymous attestation using the strong diffie hellman assumption revisited." In Trust and Trustworthy Computing: 9th International Conference, TRUST 2016, Vienna, Austria, August 29-30, 2016, Proceedings 9, pp. 1-20. Springer International Publishing, 2016 |
 | [Clo2021] | Cloudflare, Humanity wastes about 500 years per day on CAPTCHAs. It’s time to end this madness, available at <https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood>|
 | [European Digital Identity Regulation] | Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework |
